@@ -244,7 +244,7 @@ yt() {
     echo "${cyan}${bt} ••• Facebook Group: Red Team"
     echo "${cyan}${bt} ••• Add Me On Facebook"
     echo "${cyan}${bt} ••• Facebook ID: Saiful MaHi"
-    xdg-open https://www.facebook.com/groups/redteamofficial.01
+    xdg-open https://www.facebook.com/im.blood.99
 }
 
 
@@ -575,7 +575,7 @@ elif [[ $num == 00 ]]; then
     update_shadow                                           
 
 elif [[ $num == 88 ]]; then
-    xdg-open https://www.facebook.com/groups/redteamofficial.01                                                                           
+    xdg-open https://www.facebook.com/im.blood.99                                                                         
     red
 else
     clear 
